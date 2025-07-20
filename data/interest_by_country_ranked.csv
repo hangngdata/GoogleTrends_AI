@@ -1,0 +1,68 @@
+"location","hits","keyword","year","hits_num","rank"
+"Ghana","100","Agentic AI",2021,100,1
+"Nigeria","100","Agentic AI",2022,100,1
+"United States","<1","Agentic AI",2023,1,1
+"Lebanon","","Agentic AI",2023,NA,NA
+"Zimbabwe","","Agentic AI",2023,NA,NA
+"Anguilla","","Agentic AI",2023,NA,NA
+"Åland Islands","","Agentic AI",2023,NA,NA
+"Rwanda","100","Agentic AI",2024,100,1
+"Singapore","65","Agentic AI",2024,65,2
+"China","34","Agentic AI",2024,34,3
+"Israel","26","Agentic AI",2024,26,4
+"Ireland","26","Agentic AI",2024,26,4
+"Singapore","100","Agentic AI",2025,100,1
+"China","52","Agentic AI",2025,52,2
+"India","45","Agentic AI",2025,45,3
+"Hong Kong","32","Agentic AI",2025,32,4
+"United Arab Emirates","30","Agentic AI",2025,30,5
+"Belize","100","GenAI",2021,100,1
+"Lithuania","89","GenAI",2021,89,2
+"Brazil","2","GenAI",2021,2,3
+"Egypt","2","GenAI",2021,2,3
+"Indonesia","1","GenAI",2021,1,4
+"Lithuania","100","GenAI",2022,100,1
+"Zimbabwe","24","GenAI",2022,24,2
+"Brazil","2","GenAI",2022,2,3
+"Egypt","1","GenAI",2022,1,4
+"Ukraine","1","GenAI",2022,1,4
+"Hong Kong","100","GenAI",2023,100,1
+"Lithuania","78","GenAI",2023,78,2
+"Singapore","59","GenAI",2023,59,3
+"China","37","GenAI",2023,37,4
+"Switzerland","22","GenAI",2023,22,5
+"Hong Kong","100","GenAI",2024,100,1
+"Singapore","77","GenAI",2024,77,2
+"China","58","GenAI",2024,58,3
+"India","28","GenAI",2024,28,4
+"Switzerland","25","GenAI",2024,25,5
+"Hong Kong","100","GenAI",2025,100,1
+"Singapore","80","GenAI",2025,80,2
+"China","56","GenAI",2025,56,3
+"India","27","GenAI",2025,27,4
+"Israel","24","GenAI",2025,24,5
+"Mauritius","100","LLM",2021,100,1
+"India","80","LLM",2021,80,2
+"Pakistan","77","LLM",2021,77,3
+"Ghana","65","LLM",2021,65,4
+"Hong Kong","62","LLM",2021,62,5
+"Mauritius","100","LLM",2022,100,1
+"Pakistan","82","LLM",2022,82,2
+"Ghana","72","LLM",2022,72,3
+"India","69","LLM",2022,69,4
+"Malaysia","68","LLM",2022,68,5
+"China","100","LLM",2023,100,1
+"Singapore","15","LLM",2023,15,2
+"Hong Kong","12","LLM",2023,12,3
+"South Korea","12","LLM",2023,12,3
+"Pakistan","10","LLM",2023,10,4
+"China","100","LLM",2024,100,1
+"Singapore","19","LLM",2024,19,2
+"South Korea","17","LLM",2024,17,3
+"Hong Kong","14","LLM",2024,14,4
+"Israel","8","LLM",2024,8,5
+"China","100","LLM",2025,100,1
+"Singapore","23","LLM",2025,23,2
+"South Korea","21","LLM",2025,21,3
+"Hong Kong","20","LLM",2025,20,4
+"Taiwan","10","LLM",2025,10,5
